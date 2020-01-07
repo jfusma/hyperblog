@@ -1,6 +1,6 @@
  datos personales 
 john usma
-1985
+1989
 }
 nuevos datos 
 
